@@ -7,5 +7,6 @@ int main () {
   string name;
   cin >> name;
   cout << "Thanks,"<< name;
+  cout <<"TIP: Do you know the first person to be in space was Yuri Gargaring from Russia?";
   return 0;// Used to know if there is an error
 }
