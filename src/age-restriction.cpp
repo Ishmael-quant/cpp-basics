@@ -8,7 +8,7 @@ int main () {
   cin >> age;
   cout << "Enter your name: " << endl;
   cin >> name;
-  if (age<=18){
+  if (age>=18){
     cout << "You are wlecome, " << name;
   }
   else {
