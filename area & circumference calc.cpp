@@ -15,7 +15,8 @@ int main () {
   double rad;
   cin >> rad;// radius for the area
   double ans2 = pi * rad * rad;
-  cout << "Area is :" << ans2;
+  cout << "Area is :" << ans2 << endl;
+  cout << "Thanks for using my program";
   
   return 0;
 }
