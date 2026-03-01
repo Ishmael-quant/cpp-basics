@@ -15,6 +15,7 @@ int main() {
     cout << "Enter Second Number: ";
     cin >> number2;
 
+    //if-else statements for calculations
     if (operation == "+") {
         cout << number1 + number2;
     }
