@@ -8,7 +8,7 @@ int main() {
     string operation;
     double number1, number2;
     //get user input
-    cout <<"Enter First Number: ";
+    cout << "Enter First Number: ";
     cin >> number1;
     cout << "Enter Operation (+ ,- ,* ,/): ";
     cin >> operation;
@@ -29,7 +29,7 @@ int main() {
         cout << number1 / number2;
     }
     else {
-        cout <<"!Operation not recognized";
+        cout << "!Operation not recognized";
     }
 
 
